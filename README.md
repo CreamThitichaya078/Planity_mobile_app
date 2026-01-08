@@ -20,5 +20,8 @@ Planity ช่วยให้ผู้ใช้งานสามารถวา
 ## 📂 โครงสร้างและรายละเอียดของโปรเจกต์
 https://github.com/CreamThitichaya078/Planity__mobile_app/blob/main/Report.pdf
 
+## Video Presentation
+https://drive.google.com/file/d/1Z1nQ3vAh2EaY497sDMaomM1gOn23lNre/view?usp=drive_link
+
 
 
